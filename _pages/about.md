@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Marcel! Just another sociologist.
+Hello, I am Marcel, a Sociology PhD candidate at the University of Mannheim and researcher at the Mannheim Centre for European Social Research (MZES).
