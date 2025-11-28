@@ -5,8 +5,8 @@ permalink: /sitemap/
 author_profile: true
 ---
 
-markappe.github.io
+https://www.markappe.github.io
 
-markappe.github.io/research
+https://www.markappe.github.io/research
 
-markappe.github.io/teaching
+https://www.markappe.github.io/teaching
