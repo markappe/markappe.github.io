@@ -14,3 +14,5 @@ In my research, I use computational, network, and quantitative methods to study 
 Beyond these specific projects, I have broad interests in economic, organizational, cultural, and cognitive sociology. I also have a taste for abduction, sociological theory, and (neuro-)phenomenology. Our current times have further sparked my interest in philosophy and political theory.
 
 The other pages on this website provide more details on my research and teaching. Thank you for engaging with my work, and please do not hesitate to reach out if you have questions, would like to collaborate, or simply want to discuss any of the topics above. I wish you a pleasant day and good luck with your current and future projects.
+
+Here you can find my [CV]([Link Name](https://example.com)).
