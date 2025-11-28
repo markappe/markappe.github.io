@@ -15,4 +15,4 @@ Beyond these specific projects, I have broad interests in economic, organization
 
 The other pages on this website provide more details on my research and teaching. Thank you for engaging with my work, and please do not hesitate to reach out if you have questions, would like to collaborate, or simply want to discuss any of the topics above. I wish you a pleasant day and good luck with your current and future projects.
 
-Here you can find my [CV]([Link Name](https://example.com)).
+Here you can find my [CV]([Link Name](https://drive.google.com/drive/u/0/folders/18n3OFOMpLZqfQOkfG51hSC1EkXA2z_XP)).
