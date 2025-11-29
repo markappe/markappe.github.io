@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome! :) I am Marcel, a sociologist and postdoctoral fellow at the Centre de Sociologie des Organisations (CSO) at Sciences Po, Paris. Previously, I worked as a research assistant at the Mannheim Centre for European Social Research (MZES). I hold a doctorate in sociology from the Graduate School of Economic and Social Sciences (GESS) at the University of Mannheim.
+Hello and welcome! :) I am Marcel, a sociologist and postdoctoral fellow at the Centre de Sociologie des Organisations (CSO) at [Sciences Po](https://www.sciencespo.fr/cso/fr/annuaire/kappes-marcel/), Paris. Previously, I worked as a research assistant at the Mannheim Centre for European Social Research (MZES). I hold a doctorate in sociology from the Graduate School of Economic and Social Sciences (GESS) at the University of Mannheim.
 
 In my research, I use computational, network, and quantitative methods to study how people and organizations exercise agency to change against existing structures and how they fare as a result. My substantive research projects involve brilliant collaborators and reach into very diverse corners of the social world: from social movement organizations changing their issues, to employees with atypical career paths in the German labor market, to the collaboration patterns and role formation of content creators on YouTube. Beyond these specific projects, I have an interest in economic, organizational, cultural, and cognitive sociology. I also have a taste for pragmatism, abduction, and sociological theory. Our current times have further sparked my interest in philosophy and political theory.
 
